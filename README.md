@@ -17,4 +17,3 @@
 
 ##
 
-  ![Snake animation](https://github.com/guiprei/guiprei/blob/output/github-contribution-grid-snake.svg)
